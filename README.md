@@ -28,7 +28,8 @@ Welcome to my GitHub. I’m a curious and creative thinker with a background in 
 Here are some things I've worked on - more coming soon
 
 - 💼 **[Python Projects](https://github.com/faith99/altschool_python_projects)** – simple python projects  
-- 🏥 **[Healthcare Insights](https://github.com/faith99/hospital-er-visits-dashboard)** – streamlining hospital performance  
+- 🏥 **[Healthcare Insights](https://github.com/faith99/hospital-er-visits-dashboard)** – streamlining hospital performance
+- 📊 **[SQL Projects](https://github.com/faith99/MySQL_projects)** - Data cleaning and exploration  
 
 
 ---
