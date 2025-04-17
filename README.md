@@ -2,7 +2,6 @@
 <p align="center">Data enthusiast | Healthcare insights hunter | Lifelong learner</p>
 
 ---
-
 Welcome to my GitHub. I’m a curious and creative thinker with a background in healthcare and a growing passion for data analytics. I love asking “why,” finding the answers in data, and turning them into visual stories that spark action.
 ---
 
@@ -26,13 +25,11 @@ Welcome to my GitHub. I’m a curious and creative thinker with a background in 
 
 ### 📁 Featured Projects
 
-Here are a few gems I’m proud of — more coming soon!
+Here are some tings I've worked on - more coming soon
 
-- 💼 **[Sales Dashboard](https://github.com/yourusername/tableau-portfolio/tree/main/01_sales_dashboard)** – quarterly insights in a single glance  
-- 🏥 **[Healthcare Insights](https://github.com/yourusername/tableau-portfolio/tree/main/02_healthcare_insights)** – streamlining hospital performance  
-- 📉 **[Customer Churn Analysis](https://github.com/yourusername/tableau-portfolio/tree/main/03_customer_churn)** – predicting and preventing churn
+- 💼 **[Python Projects](https://github.com/faith99/altschool_python_projects)** – simple python projects  
+- 🏥 **[Healthcare Insights](https://github.com/faith99/hospital-er-visits-dashboard)** – streamlining hospital performance  
 
-> 📌 *Check out my full portfolio here:* [Tableau Portfolio Repo](https://github.com/yourusername/tableau-portfolio)
 
 ---
 
