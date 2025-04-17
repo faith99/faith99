@@ -25,7 +25,7 @@ Welcome to my GitHub. I’m a curious and creative thinker with a background in 
 
 ### 📁 Featured Projects
 
-Here are some tings I've worked on - more coming soon
+Here are some things I've worked on - more coming soon
 
 - 💼 **[Python Projects](https://github.com/faith99/altschool_python_projects)** – simple python projects  
 - 🏥 **[Healthcare Insights](https://github.com/faith99/hospital-er-visits-dashboard)** – streamlining hospital performance  
@@ -43,7 +43,7 @@ Here are some tings I've worked on - more coming soon
 
 ### 🤝 Let's Connect
 
-I’m actively open to collaborations, internships, and opportunities in data analysis, particularly in sectors where data can improve lives.!
+I’m actively open to collaborations, internships, and opportunities in data analysis, particularly in sectors where data can improve lives.
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/faith-ada-mbonu/)
 - 📝 [Medium](https://medium.com/@faithadambonu)
